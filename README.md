@@ -282,11 +282,3 @@ BCA Student | Aspiring Full Stack Developer & Machine Learning Enthusiast
 https://github.com/Rabinson-20
 
 ---
-
-## ⭐ Project Highlights
-
-> **Analyze → Understand → Predict → Support**
-
-This project demonstrates how Machine Learning and Data Analytics can be used to understand student behavior and help improve outcomes in online education.
-
-If you find this project useful, consider giving the repository a ⭐.
