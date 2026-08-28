@@ -272,7 +272,7 @@ Future versions of this project could include:
 
 ## 👨‍💻 Author
 
-**Sam Rabinson P**
+**Samrabinson P**
 
 BCA Student | Aspiring Full Stack Developer & Machine Learning Enthusiast
 
