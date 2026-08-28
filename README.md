@@ -170,8 +170,7 @@ Online-Education-ML/
 │
 ├── online_education_dataset.csv
 ├── Online_Education_ML.ipynb
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ---
